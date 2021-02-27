@@ -1,0 +1,7 @@
+D:\визуалка студио\All_2_Labs_OOP_5point6\All_2_Labs_OOP_5point6\bin\Debug\All_2_Labs_OOP_5point6.exe.config
+D:\визуалка студио\All_2_Labs_OOP_5point6\All_2_Labs_OOP_5point6\bin\Debug\All_2_Labs_OOP_5point6.exe
+D:\визуалка студио\All_2_Labs_OOP_5point6\All_2_Labs_OOP_5point6\bin\Debug\All_2_Labs_OOP_5point6.pdb
+D:\визуалка студио\All_2_Labs_OOP_5point6\All_2_Labs_OOP_5point6\obj\Debug\All_2_Labs_OOP_5point6.csprojAssemblyReference.cache
+D:\визуалка студио\All_2_Labs_OOP_5point6\All_2_Labs_OOP_5point6\obj\Debug\All_2_Labs_OOP_5point6.csproj.CoreCompileInputs.cache
+D:\визуалка студио\All_2_Labs_OOP_5point6\All_2_Labs_OOP_5point6\obj\Debug\All_2_Labs_OOP_5point6.exe
+D:\визуалка студио\All_2_Labs_OOP_5point6\All_2_Labs_OOP_5point6\obj\Debug\All_2_Labs_OOP_5point6.pdb
